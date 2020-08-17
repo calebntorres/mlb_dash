@@ -1,4 +1,4 @@
-![Dash Preview](https://calebntores.github.com/images/mlb_dash.png)
+<img src="images/mlb_dash.png?raw=true"/>
 
 # mlb_dash #
 An interactive dashboard for analyzing MLB data using python Dash capabilities.
