@@ -1,4 +1,4 @@
-<img src="images/mlb_dash.png?raw=true"/>
+<img src="images/mlb_dash.gif?raw=true"/>
 
 # mlb_dash #
 An interactive dashboard for analyzing MLB data using python Dash capabilities.
